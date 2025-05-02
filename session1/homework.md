@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|       O(n)                |
 
 3. What is the space complexity of the above script?
 
